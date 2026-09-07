@@ -75,7 +75,7 @@ The following visualisations provide insight into the strategy's historical perf
 
 ### 1. Cumulative Portfolio Performance
 
-![Cumulative Portfolio Performance](images/cumulative_performance.jpg)
+![Cumulative Portfolio Performance](Cumulative_Performance.jpg)
 
 This chart compares the growth of a hypothetical initial investment of $100 in the Multi-Factor Strategy against the S&P 500 benchmark (`SPY`).
 
@@ -109,7 +109,7 @@ The maximum drawdown represents the largest peak-to-trough decline during the ba
 
 ### 3. Rolling 12-Month Sharpe Ratio
 
-![Rolling Sharpe Ratio](images/Rolling_Sharpe.jpg)
+![Rolling Sharpe Ratio](Rolling_Sharpe.jpg)
 
 The rolling 12-month Sharpe ratio measures how the strategy's risk-adjusted performance changes over time.
 
@@ -127,7 +127,7 @@ Periods below zero indicate that the strategy generated negative risk-adjusted p
 
 ### 4. Portfolio Turnover
 
-![Portfolio Turnover](images/Portfolio_Turnover.jpg)
+![Portfolio Turnover](Portfolio_Turnover.jpg)
 
 Portfolio turnover measures how much the portfolio changes at each monthly rebalance.
 
