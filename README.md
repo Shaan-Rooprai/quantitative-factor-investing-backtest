@@ -91,7 +91,7 @@ A higher ending portfolio value indicates stronger historical cumulative perform
 
 ### 2. Drawdown Analysis
 
-![Portfolio Drawdown](images/Drawdown.jpg)
+![Portfolio Drawdown](Drawdown.jpg)
 
 Drawdown measures the percentage decline from a portfolio's previous highest value.
 
