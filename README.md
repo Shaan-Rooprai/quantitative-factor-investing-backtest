@@ -127,7 +127,7 @@ Periods below zero indicate that the strategy generated negative risk-adjusted p
 
 ### 4. Portfolio Turnover
 
-![Portfolio Turnover](images/Portfolio%20Turnover.jpg)
+![Portfolio Turnover](Portfolio_Turnover.jpg)
 
 
 Portfolio turnover measures how much the portfolio changes at each monthly rebalance.
