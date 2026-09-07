@@ -75,7 +75,7 @@ The following visualisations provide insight into the strategy's historical perf
 
 ### 1. Cumulative Portfolio Performance
 
-![Cumulative Portfolio Performance](images/Cumulative_Performance.jpg)
+![Cumulative Portfolio Performance](images/cumulative_performance.jpg)
 
 This chart compares the growth of a hypothetical initial investment of $100 in the Multi-Factor Strategy against the S&P 500 benchmark (`SPY`).
 
@@ -363,10 +363,3 @@ Add additional signals such as:
 
 This would allow development of a more comprehensive multi-factor model.
 
----
-
-## The important point
-
-**Yes, these sections should have been included in the complete README.** You were asking for the *entire final README*, not another partial replacement section.
-
-If you want, my next response can be **one single complete README from the very first line to the disclaimer**, with **all 24 sections above included in the correct order**, ready to copy once into GitHub.
