@@ -109,7 +109,7 @@ The maximum drawdown represents the largest peak-to-trough decline during the ba
 
 ### 3. Rolling 12-Month Sharpe Ratio
 
-![Rolling Sharpe Ratio](Rolling_Sharpe.jpg)
+![Rolling Sharpe Ratio](Rolling_Sharp.jpg)
 
 The rolling 12-month Sharpe ratio measures how the strategy's risk-adjusted performance changes over time.
 
