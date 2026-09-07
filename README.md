@@ -129,6 +129,7 @@ Periods below zero indicate that the strategy generated negative risk-adjusted p
 
 ![Portfolio Turnover](Portfolio_Turnover.jpg)
 
+
 Portfolio turnover measures how much the portfolio changes at each monthly rebalance.
 
 Higher turnover indicates that more capital must be traded when the strategy updates its holdings.
